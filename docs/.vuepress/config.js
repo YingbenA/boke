@@ -696,7 +696,7 @@ module.exports = {
         articleH4Icon: '⛄',
 
         //v1.6.4新增配置
-        sidebarAvatar: '/avatar.jpg',
+        sidebarAvatar: 'https://s9tu.com/images/2022/04/09/Vh3Z23.jpg',
 
         //1.7.1增加配置
         sugCountPerMin: 300,
