@@ -157,7 +157,7 @@ module.exports = {
         [
             "link",
             {
-                href: "/avatar.png",
+                href: "https://s9tu.com/images/2022/04/09/Vh3Z23.jpg",
                 rel: "icon",
             },
         ],
