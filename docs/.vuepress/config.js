@@ -294,7 +294,7 @@ module.exports = {
                 title: "蛙达西?",
                 describe: [
                     "这是关于页面支持html<a href='https://blog.cco.vin' target='_blank'>这是一个标签</a>",
-                    "目前是一名大二学生,vr专业,是一名来自火星的日籍在上海的华人，英文名叫father",
+                    "目前是一名大二学生,vr专业,坐标西南山区",
                     "喜欢安静,不喜社交，一个人做着喜欢的事情",
                     "三分钟热度,什么类型都了解一些，半吊子拉满<del>这个都是看着大佬做的拿来修改用的</del>",
                     "喜欢技术,coding",
@@ -789,7 +789,7 @@ module.exports = {
         /*
         * 一下是v1.11.1版本增加的配置
         * */
-        afDianUrl: 'https://afdian.net/@qsyyke',//你的爱发电个人页面地址
+        afDianUrl: 'https://afdian.net/@yingbenai',//你的爱发电个人页面地址
 
         /*
         * 下面这些是v1.12.0版本新增的配置项
