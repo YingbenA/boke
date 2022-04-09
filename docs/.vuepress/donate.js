@@ -3,8 +3,8 @@ module.exports = {
 
         //赞赏页面，支付二维码，推荐放置两张图片链接
         donateImg: [
-            "/wx.jpg",
-            "/zfb.jpg",
+            "https://s9tu.com/images/2022/04/09/VnNCX9.jpg",
+            "https://s9tu.com/images/2022/04/09/VnNNJ7.jpg",
         ],
 
         //是否在文章页面显示赞赏 默认显示
