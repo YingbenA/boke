@@ -207,7 +207,7 @@ module.exports = {
         darkMode: false,
 
         //项目地址，会在顶部导航栏和侧边栏显示GitHub的地址
-        repo: "https://github.com/qsyyke/vuepress-theme-aurora",
+        repo: "https://github.com/YingbenA",
 
         //自定义GitHub的图标
         repoIconClass: 'aurora-navbar-github',
