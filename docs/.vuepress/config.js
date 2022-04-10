@@ -213,7 +213,7 @@ module.exports = {
         repoIconClass: 'aurora-navbar-github',
 
         //md文件的仓库地址
-        docsRepo: 'https://github.com/qsyyke/aurora-docs',
+        docsRepo: 'https://github.com/Yingbenxiaoai/',
 
         /*
         * 站点是否是使用github Actions自动部署，如果你使用github Actions完成自动部署，那么这里一定要为TRUE，为TRUE，假如你把此项目push

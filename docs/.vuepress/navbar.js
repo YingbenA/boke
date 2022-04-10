@@ -24,8 +24,8 @@ module.exports = {
 <<<<<<< HEAD
                     text: "act游戏",
                     children: [
-                        '/issue/1.md',
-                        '/issue/2.md',
+                        '/issue/3.md',
+                        '/issue/4.md',
 =======
                     text: "act类游戏",
                     children: [
