@@ -21,8 +21,10 @@ module.exports = {
                     ]
                 },
                 {
-                    text: "还没想到写什么",
+                    text: "act游戏",
                     children: [
+                        '/issue/1.md',
+                        '/issue/2.md',
                       //  '/home/game.md'
                     ]
                 },
