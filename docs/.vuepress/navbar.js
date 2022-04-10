@@ -21,16 +21,10 @@ module.exports = {
                     ]
                 },
                 {
-<<<<<<< HEAD
                     text: "act游戏",
                     children: [
-                        '/issue/3.md',
-                        '/issue/4.md',
-=======
-                    text: "act类游戏",
-                    children: [
-                        /issue/
->>>>>>> 8e281283e5aaaf7d17da49aa521deaca7f5f8e85
+                        '/issue/1.md',
+                        '/issue/2.md',
                       //  '/home/game.md'
                     ]
                 },
@@ -182,4 +176,3 @@ module.exports = {
         }*/
     ]
 }
-
