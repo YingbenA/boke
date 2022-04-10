@@ -656,7 +656,7 @@ module.exports = {
 
         //侧边栏配置
         //github地址
-        githubUrl: "https://github.com/qsyyke/vuepress-theme-aurora",
+        githubUrl: "https://github.com/YingbenA",
 
         //最新文章数量，默认为6
         latestPageSize: 6,
