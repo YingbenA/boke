@@ -51,7 +51,7 @@ module.exports = {
                 appKey: 'qHYTbb91iOPLelyC9lpbXxLH',
                 masterKey: 'eUwfvS3luIPnPiHS5SpEhDYr',
                 //下面这些是可选的
-                avatarPath: '/avatar.jpg',//说说头像url
+                avatarPath: 'https://s9tu.com/images/2022/04/09/VhQEzN.jpg',//说说头像url
                 registerPath: '/register', //自定义插件默认提供的注册页面路由，请在前面加上/
                 onlyAdministrator: false //是否运行其他注册的用户发布说说，true表示只有管理员可以发布
             }
@@ -157,7 +157,7 @@ module.exports = {
         [
             "link",
             {
-                href: "/avatar.png",
+                href: "https://s9tu.com/images/2022/04/09/Vh3Z23.jpg",
                 rel: "icon",
             },
         ],
@@ -207,7 +207,7 @@ module.exports = {
         darkMode: false,
 
         //项目地址，会在顶部导航栏和侧边栏显示GitHub的地址
-        repo: "https://github.com/qsyyke/vuepress-theme-aurora",
+        repo: "https://github.com/YingbenA",
 
         //自定义GitHub的图标
         repoIconClass: 'aurora-navbar-github',
@@ -246,16 +246,16 @@ module.exports = {
         showFont: "程",
 
         //首页中间hero图片地址
-        heroImg: '/avatar.jpg',
+        heroImg: 'https://s9tu.com/images/2022/04/09/Vh3Z23.jpg',
 
         //logo图片地址
-        logo: "/avatar.png",
+        logo: "https://s9tu.com/images/2022/04/09/VhQEzN.jpg",
 
         //文章懒加载图片 仅限文章，首页文章占位图片并不是这个
-        lazyLoadingImg: "/ljz.gif",
+        lazyLoadingImg: "https://s9tu.com/images/2022/04/09/VhQxb3.gif",
 
         //这是首页文章列表懒加载图片
-        homePageLazyLoadingImg: '/aurora-loading.gif',
+        homePageLazyLoadingImg: 'https://s9tu.com/images/2022/04/09/VhQogY.gif',
 
         //是否启用定制首页随机一言，默认未开启，使用随机一言 接口为https://international.v1.hitokoto.cn/?c=b&max_length=45
         customRandomSay: false,
@@ -289,7 +289,7 @@ module.exports = {
         * */
         about: [
             {
-                bgImg: "/bg/about.jpg",
+                bgImg: "https://s9tu.com/images/2022/04/09/VhQzO8.jpg",
                 bar: false,
                 title: "蛙达西?",
                 describe: [
@@ -320,7 +320,7 @@ module.exports = {
                 showTag: true,
             },
             {
-                bgImg: '/bg/1.jpg',
+                bgImg: 'https://s9tu.com/images/2022/04/09/VhvCKx.jpg',
                 bar: false,
                 title: "大三规划",
                 describe: [
@@ -342,7 +342,7 @@ module.exports = {
                 showTag: true,
             },
             {
-                bgImg: '/bg/3.jpg',
+                bgImg: 'https://s9tu.com/images/2022/04/09/VhvNr6.jpg',
                 bar: true,
                 title: "技  能",
                 describe: [
@@ -427,7 +427,7 @@ module.exports = {
                 ],
             },
             {
-                bgImg: 'http://localhost:8080/bg/763311.jpg',
+                bgImg: 'https://s9tu.com/images/2022/04/09/VhvVyk.jpg',
                 bar: true,
                 showTag: false,
                 title: "掌握技能",
@@ -507,7 +507,7 @@ module.exports = {
         isShowRunTime: true,
 
         //网站开始时间，请按照以下格式进行
-        startRunTime: "11/3/2022 12:22:00",
+        startRunTime: "9/4/2022 12:22:00",
 
         //网站运行时间前缀
         prefixRuntime: "小破站已运行",
@@ -580,7 +580,7 @@ module.exports = {
             suffixBlog: " ❤",
 
             //头像，请放置在docs/public目录下，或者请保证此图片链接能够跨域访问，否则头像不能正常显示
-            avatar: "/avatar.jpg",
+            avatar: "https://s9tu.com/images/2022/04/09/Vh3Z23.jpg",
         },
 
         //是否展示从网络上请求回来的说说 如果启用，请自己写后台服务，修改源码，目前暂未在主题中加入，期望在将来能够实现，组件位置docs/.vuepress/theme/lib/client/components/Mood.vue
@@ -603,9 +603,9 @@ module.exports = {
 
             //文章顶部图片，数组，每次从数组中随机选择一张
             page: [
-                "/bg/555260.png",
-                '/bg/404901.png',
-                '/bg/734386.png'
+                "https://s9tu.com/images/2022/04/09/VhvW3l.jpg",
+                'https://s9tu.com/images/2022/04/09/VhvrzO.jpg',
+                'https://s9tu.com/images/2022/04/09/VhvJcR.jpg'
             ],
             //友情链接页面
             friend: [
@@ -614,23 +614,23 @@ module.exports = {
             ],
             //标签页面
             tag: [
-                "/bg/763311.png"
+                "https://s9tu.com/images/2022/04/09/VhvRIK.jpg"
             ],
             //心情页面
             mood: [
-                "/bg/5849.png"
+                "https://s9tu.com/images/2022/04/09/Vhviad.jpg"
             ],
         },
 
         //首页背景图片数组，考虑到使用随机图片，打开网站速度变慢，所以移除随机图片，使用自己设置的图片链接
         homeWps: [
-            "/bg/404901.png",
-            "/bg/734386.png",
-            "/bg/5332.png",
-            '/bg/2.jpg',
-            '/bg/3.jpg',
-            '/bg/4.jpg',
-            '/bg/5.jpg',
+            "https://s9tu.com/images/2022/04/09/VhFGsE.jpg",
+            "https://s9tu.com/images/2022/04/09/VhFNqq.jpg",
+            "https://s9tu.com/images/2022/04/09/VhFUnl.jpg",
+            'https://s9tu.com/images/2022/04/09/VhFyHO.jpg',
+            'https://s9tu.com/images/2022/04/09/VhFiSR.jpg',
+            'https://s9tu.com/images/2022/04/09/VhFLlo.jpg',
+            'https://s9tu.com/images/2022/04/09/VhvRIK.jpg',
         ],
         /* homeWps: [
              '/bg/1.jpg',
@@ -647,8 +647,8 @@ module.exports = {
             "https://ooszy.cco.vin/img/blog-note/929842.jpg",
         ],*/
         homeWpsMobile: [
-            '/bg/4.jpg',
-            '/bg/5.jpg',
+            'https://s9tu.com/images/2022/04/09/VhFNqq.jpg',
+            'https://s9tu.com/images/2022/04/09/VhvRIK.jpg',
         ],
 
         //首页文章显示条数，默认为4，此值不推荐设置太大
@@ -696,7 +696,7 @@ module.exports = {
         articleH4Icon: '⛄',
 
         //v1.6.4新增配置
-        sidebarAvatar: '/avatar.jpg',
+        sidebarAvatar: 'https://s9tu.com/images/2022/04/09/Vh3Z23.jpg',
 
         //1.7.1增加配置
         sugCountPerMin: 300,
@@ -789,7 +789,7 @@ module.exports = {
         /*
         * 一下是v1.11.1版本增加的配置
         * */
-        afDianUrl: 'https://afdian.net/@qsyyke',//你的爱发电个人页面地址
+        afDianUrl: 'https://afdian.net/@yingbenai',//你的爱发电个人页面地址
 
         /*
         * 下面这些是v1.12.0版本新增的配置项
@@ -799,7 +799,7 @@ module.exports = {
         homeTopText: '置顶',
 
         //侧边栏一句话描述
-        sidebarDesc: '喜欢动漫，Coding目前是一名大三学生,坐标西南山区',
+        sidebarDesc: '喜欢动漫，Coding目前是一名大三学生,坐标火星',
 
         /*
         * 下面的是v1.13.0版本的配置
