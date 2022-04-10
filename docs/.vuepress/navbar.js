@@ -23,8 +23,8 @@ module.exports = {
                 {
                     text: "act游戏",
                     children: [
-                        '/issue/1.md',
-                        '/issue/2.md',
+                        '/issue/3.md',
+                        '/issue/4.md',
                       //  '/home/game.md'
                     ]
                 },
